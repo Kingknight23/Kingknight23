@@ -1,4 +1,4 @@
-# Education
+### Education
 Carleton University - Bachelor of Mathematics: Computer Mathematics
 - 👋 Hi, I’m @Kingknight23
 - 👀 I’m interested in coding ...
