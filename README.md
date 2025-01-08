@@ -10,7 +10,7 @@
 
 - **Languages**: [e.g., Python, JavaScript, Java, C/C++, SQL, HTML/CSS, PHP, Bash]  
 - **Frameworks**: [e.g. Node.js, Django, etc.]  
-- **Tools**: [e.g., Git, Docker, VS Code, Linux, PostgreSQL]  
+- **Tools**: [e.g., Git, Docker, VS Code, Linux, PostgreSQL,SPSS, Matlab]  
 - **Interests**: [e.g. Web Development, Embed Systems, etc.]
 
 ---
