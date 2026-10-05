@@ -19,7 +19,6 @@
 ## 🌍 **Let's Connect**
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/victor-igwe-774308239/)  
-- 🐦 [Twitter](https://x.com/Viz12156573)  
 - 📧 [Email Me](mailto:igwevictor90@gmail.com)  
 
 ---
